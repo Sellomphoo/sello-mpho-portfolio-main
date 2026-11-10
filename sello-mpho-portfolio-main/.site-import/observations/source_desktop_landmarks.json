@@ -1,0 +1,309 @@
+{
+  "label": "source_desktop",
+  "url": "https://sello-mpho-portfolio.vercel.app/",
+  "viewport": {
+    "width": 1280,
+    "height": 1800
+  },
+  "steps": [
+    {
+      "scrollY": 800,
+      "bodyHeight": 9184,
+      "headings": [
+        "I build intelligent analytics & data dashboards.",
+        "About Me"
+      ],
+      "section": [
+        {
+          "id": "home",
+          "cls": "relative min-h-screen w-full overflow-hidden bg-background",
+          "top": -800,
+          "height": 1800
+        },
+        {
+          "id": "about",
+          "cls": "relative py-32 section-bg overflow-hidden",
+          "top": 1000,
+          "height": 1564
+        }
+      ],
+      "images": [
+        {
+          "alt": "Mpho Sello portrait",
+          "loaded": true,
+          "src": "folio.vercel.app/images/hero-portrait.webp"
+        },
+        {
+          "alt": "Mpho Sello portrait",
+          "loaded": true,
+          "src": "olio.vercel.app/images/about-portrait.webp"
+        }
+      ],
+      "navClass": "fixed top-0 w-full z-50 transition-all duration-300 nav-blur border-b border-border",
+      "screenshot": ".site-import/observations/source_desktop_landmark_01.png"
+    },
+    {
+      "scrollY": 1600,
+      "bodyHeight": 9184,
+      "headings": [
+        "About Me"
+      ],
+      "section": [
+        {
+          "id": "home",
+          "cls": "relative min-h-screen w-full overflow-hidden bg-background",
+          "top": -1600,
+          "height": 1800
+        },
+        {
+          "id": "about",
+          "cls": "relative py-32 section-bg overflow-hidden",
+          "top": 200,
+          "height": 1564
+        },
+        {
+          "id": "",
+          "cls": "relative py-32 bg-background overflow-hidden",
+          "top": 1764,
+          "height": 788
+        }
+      ],
+      "images": [
+        {
+          "alt": "Mpho Sello portrait",
+          "loaded": true,
+          "src": "olio.vercel.app/images/about-portrait.webp"
+        }
+      ],
+      "navClass": "fixed top-0 w-full z-50 transition-all duration-300 nav-blur border-b border-border",
+      "screenshot": ".site-import/observations/source_desktop_landmark_02.png"
+    },
+    {
+      "scrollY": 2400,
+      "bodyHeight": 9184,
+      "headings": [
+        "Featured Projects"
+      ],
+      "section": [
+        {
+          "id": "about",
+          "cls": "relative py-32 section-bg overflow-hidden",
+          "top": -600,
+          "height": 1564
+        },
+        {
+          "id": "",
+          "cls": "relative py-32 bg-background overflow-hidden",
+          "top": 964,
+          "height": 788
+        }
+      ],
+      "images": [
+        {
+          "alt": "Mpho Sello portrait",
+          "loaded": true,
+          "src": "olio.vercel.app/images/about-portrait.webp"
+        }
+      ],
+      "navClass": "fixed top-0 w-full z-50 transition-all duration-300 nav-blur border-b border-border",
+      "screenshot": ".site-import/observations/source_desktop_landmark_03.png"
+    },
+    {
+      "scrollY": 3200,
+      "bodyHeight": 9248,
+      "headings": [
+        "Featured Projects",
+        "Skills & Technologies"
+      ],
+      "section": [
+        {
+          "id": "about",
+          "cls": "relative py-32 section-bg overflow-hidden",
+          "top": -1400,
+          "height": 1564
+        },
+        {
+          "id": "",
+          "cls": "relative py-32 bg-background overflow-hidden",
+          "top": 164,
+          "height": 788
+        },
+        {
+          "id": "",
+          "cls": "relative py-32 section-bg overflow-hidden",
+          "top": 1114,
+          "height": 536
+        },
+        {
+          "id": "",
+          "cls": "relative py-32 section-bg overflow-hidden",
+          "top": 1764,
+          "height": 1064
+        }
+      ],
+      "images": [],
+      "navClass": "fixed top-0 w-full z-50 transition-all duration-300 nav-blur border-b border-border",
+      "screenshot": ".site-import/observations/source_desktop_landmark_04.png"
+    },
+    {
+      "scrollY": 4000,
+      "bodyHeight": 9602,
+      "headings": [
+        "Skills & Technologies",
+        "Certificates & Awards"
+      ],
+      "section": [
+        {
+          "id": "",
+          "cls": "relative py-32 bg-background overflow-hidden",
+          "top": -636,
+          "height": 788
+        },
+        {
+          "id": "",
+          "cls": "relative py-32 section-bg overflow-hidden",
+          "top": 314,
+          "height": 536
+        },
+        {
+          "id": "",
+          "cls": "relative py-32 section-bg overflow-hidden",
+          "top": 964,
+          "height": 1064
+        }
+      ],
+      "images": [],
+      "navClass": "fixed top-0 w-full z-50 transition-all duration-300 nav-blur border-b border-border",
+      "screenshot": ".site-import/observations/source_desktop_landmark_05.png"
+    },
+    {
+      "scrollY": 4800,
+      "bodyHeight": 9602,
+      "headings": [
+        "Certificates & Awards",
+        "Education Journey"
+      ],
+      "section": [
+        {
+          "id": "",
+          "cls": "relative py-32 section-bg overflow-hidden",
+          "top": -486,
+          "height": 536
+        },
+        {
+          "id": "",
+          "cls": "relative py-32 section-bg overflow-hidden",
+          "top": 164,
+          "height": 1064
+        },
+        {
+          "id": "",
+          "cls": "py-32 bg-background",
+          "top": 1228,
+          "height": 1954
+        }
+      ],
+      "images": [],
+      "navClass": "fixed top-0 w-full z-50 transition-all duration-300 nav-blur border-b border-border",
+      "screenshot": ".site-import/observations/source_desktop_landmark_06.png"
+    },
+    {
+      "scrollY": 5600,
+      "bodyHeight": 9602,
+      "headings": [
+        "Education Journey"
+      ],
+      "section": [
+        {
+          "id": "",
+          "cls": "relative py-32 section-bg overflow-hidden",
+          "top": -636,
+          "height": 1064
+        },
+        {
+          "id": "",
+          "cls": "py-32 bg-background",
+          "top": 428,
+          "height": 1954
+        }
+      ],
+      "images": [],
+      "navClass": "fixed top-0 w-full z-50 transition-all duration-300 nav-blur border-b border-border",
+      "screenshot": ".site-import/observations/source_desktop_landmark_07.png"
+    },
+    {
+      "scrollY": 6400,
+      "bodyHeight": 9602,
+      "headings": [
+        "Get In Touch"
+      ],
+      "section": [
+        {
+          "id": "",
+          "cls": "py-32 bg-background",
+          "top": -372,
+          "height": 1954
+        },
+        {
+          "id": "",
+          "cls": "relative py-32 section-bg overflow-hidden",
+          "top": 1582,
+          "height": 1094
+        }
+      ],
+      "images": [],
+      "navClass": "fixed top-0 w-full z-50 transition-all duration-300 nav-blur border-b border-border",
+      "screenshot": ".site-import/observations/source_desktop_landmark_08.png"
+    },
+    {
+      "scrollY": 7200,
+      "bodyHeight": 9602,
+      "headings": [
+        "Get In Touch"
+      ],
+      "section": [
+        {
+          "id": "",
+          "cls": "py-32 bg-background",
+          "top": -1172,
+          "height": 1954
+        },
+        {
+          "id": "",
+          "cls": "relative py-32 section-bg overflow-hidden",
+          "top": 782,
+          "height": 1094
+        }
+      ],
+      "images": [],
+      "navClass": "fixed top-0 w-full z-50 transition-all duration-300 nav-blur border-b border-border",
+      "screenshot": ".site-import/observations/source_desktop_landmark_09.png"
+    },
+    {
+      "scrollY": 7802,
+      "bodyHeight": 9602,
+      "headings": [
+        "Get In Touch"
+      ],
+      "section": [
+        {
+          "id": "",
+          "cls": "py-32 bg-background",
+          "top": -1774,
+          "height": 1954
+        },
+        {
+          "id": "",
+          "cls": "relative py-32 section-bg overflow-hidden",
+          "top": 180,
+          "height": 1094
+        }
+      ],
+      "images": [],
+      "navClass": "fixed top-0 w-full z-50 transition-all duration-300 nav-blur border-b border-border",
+      "screenshot": ".site-import/observations/source_desktop_landmark_10.png"
+    }
+  ],
+  "errors": [],
+  "finalHeight": 9602
+}

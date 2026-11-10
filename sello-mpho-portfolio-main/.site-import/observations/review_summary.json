@@ -1,0 +1,1356 @@
+[
+  {
+    "title": "Mpho Sello - ICT Professional Portfolio",
+    "url": "https://sello-mpho-portfolio.vercel.app/",
+    "dimensions": {
+      "width": 1280,
+      "height": 1800,
+      "bodyHeight": 9184
+    },
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "I build intelligent\nanalytics &\ndata dashboards.",
+        "y": 617
+      },
+      {
+        "tag": "H2",
+        "text": "About Me",
+        "y": 1952
+      },
+      {
+        "tag": "H3",
+        "text": "Profile Summary",
+        "y": 2233
+      },
+      {
+        "tag": "H3",
+        "text": "Core Values",
+        "y": 2915
+      },
+      {
+        "tag": "H3",
+        "text": "Soft Skills",
+        "y": 2915
+      }
+    ],
+    "links": [
+      {
+        "text": "Home",
+        "href": "https://sello-mpho-portfolio.vercel.app/#home",
+        "visible": true
+      },
+      {
+        "text": "About Me",
+        "href": "https://sello-mpho-portfolio.vercel.app/#about",
+        "visible": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://sello-mpho-portfolio.vercel.app/#projects",
+        "visible": true
+      },
+      {
+        "text": "Skills",
+        "href": "https://sello-mpho-portfolio.vercel.app/#skills",
+        "visible": true
+      },
+      {
+        "text": "Achievements",
+        "href": "https://sello-mpho-portfolio.vercel.app/#certificates",
+        "visible": true
+      },
+      {
+        "text": "Education",
+        "href": "https://sello-mpho-portfolio.vercel.app/#education",
+        "visible": true
+      },
+      {
+        "text": "Contact",
+        "href": "https://sello-mpho-portfolio.vercel.app/#contact",
+        "visible": true
+      },
+      {
+        "text": "",
+        "href": "https://www.linkedin.com/in/mpho-sello-692193241",
+        "visible": true
+      },
+      {
+        "text": "",
+        "href": "https://github.com/Sellomphoo",
+        "visible": true
+      },
+      {
+        "text": "",
+        "href": "https://sello-mpho-portfolio.vercel.app/#",
+        "visible": true
+      },
+      {
+        "text": "",
+        "href": "mailto:202324276@student.spu.ac.za",
+        "visible": true
+      }
+    ],
+    "buttons": [
+      {
+        "text": "",
+        "aria": "Switch to luxury light theme",
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "",
+        "aria": "Switch to luxury light theme",
+        "expanded": null,
+        "visible": false
+      },
+      {
+        "text": "",
+        "aria": null,
+        "expanded": null,
+        "visible": false
+      },
+      {
+        "text": "VIEW PROJECTS",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "RESUME",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "SCROLL",
+        "aria": "Scroll to about",
+        "expanded": null,
+        "visible": true
+      }
+    ],
+    "sections": [
+      {
+        "tag": "SECTION",
+        "id": "home",
+        "cls": "relative min-h-screen w-full overflow-hidden bg-background",
+        "text": "MPHO \u00b7 SELLO PORTFOLIO / 2026 HI, I'M MPHO SELLO I build intelligent analytics & data dashboards. DATA ANALYST POWERBI DEVELOPER BUSSINESS INTELLIGENCE ANALYST Data Analyst skilled in Excel, SQL, and Python, with practic",
+        "y": 0,
+        "h": 1800
+      },
+      {
+        "tag": "SECTION",
+        "id": "about",
+        "cls": "relative py-32 section-bg overflow-hidden",
+        "text": "PROFILE \u2014 ABOUT About Me Get to know more about my background, skills, and passion for technology Profile Summary Data Analyst skilled in Excel, SQL, and Python, with practical experience cleaning, analyzing, and reconci",
+        "y": 1800,
+        "h": 1564
+      }
+    ],
+    "topScreenshot": ".site-import/observations/source_desktop_top.png",
+    "scrollScreenshots": [
+      {
+        "shot": ".site-import/observations/source_desktop_scroll_1.png",
+        "scrollY": 1000
+      },
+      {
+        "shot": ".site-import/observations/source_desktop_scroll_2.png",
+        "scrollY": 2000
+      },
+      {
+        "shot": ".site-import/observations/source_desktop_scroll_3.png",
+        "scrollY": 3000
+      },
+      {
+        "shot": ".site-import/observations/source_desktop_scroll_4.png",
+        "scrollY": 4000
+      },
+      {
+        "shot": ".site-import/observations/source_desktop_scroll_5.png",
+        "scrollY": 5000
+      }
+    ]
+  },
+  {
+    "title": "Mpho Sello - ICT Professional Portfolio",
+    "url": "http://localhost:8080/",
+    "dimensions": {
+      "width": 1280,
+      "height": 1800,
+      "bodyHeight": 9602
+    },
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "I build intelligent\nanalytics &\ndata dashboards.",
+        "y": 617
+      },
+      {
+        "tag": "H2",
+        "text": "About Me",
+        "y": 1952
+      },
+      {
+        "tag": "H3",
+        "text": "Profile Summary",
+        "y": 2233
+      },
+      {
+        "tag": "H3",
+        "text": "Core Values",
+        "y": 2915
+      },
+      {
+        "tag": "H3",
+        "text": "Soft Skills",
+        "y": 2915
+      },
+      {
+        "tag": "H2",
+        "text": "Featured Projects",
+        "y": 3516
+      },
+      {
+        "tag": "H3",
+        "text": "Tutorial Booking System",
+        "y": 3777
+      },
+      {
+        "tag": "H3",
+        "text": "Legal Assistance Booking App",
+        "y": 3777
+      },
+      {
+        "tag": "H3",
+        "text": "HerCycle Sanitary Services Donation Platform",
+        "y": 3777
+      },
+      {
+        "tag": "H2",
+        "text": "Skills & Technologies",
+        "y": 4466
+      },
+      {
+        "tag": "H2",
+        "text": "Certificates & Awards",
+        "y": 5116
+      },
+      {
+        "tag": "H2",
+        "text": "Education Journey",
+        "y": 6180
+      },
+      {
+        "tag": "H3",
+        "text": "Sol Plaatje University",
+        "y": 6349
+      },
+      {
+        "tag": "H3",
+        "text": "Motheo TVET College",
+        "y": 6889
+      },
+      {
+        "tag": "H3",
+        "text": "Bainsvlei Combined School",
+        "y": 7331
+      },
+      {
+        "tag": "H2",
+        "text": "Get In Touch",
+        "y": 8134
+      },
+      {
+        "tag": "H3",
+        "text": "Contact Information",
+        "y": 8349
+      },
+      {
+        "tag": "H3",
+        "text": "Connect With Me",
+        "y": 8695
+      },
+      {
+        "tag": "H3",
+        "text": "Professional References",
+        "y": 8869
+      },
+      {
+        "tag": "H3",
+        "text": "Send Me a Message",
+        "y": 8349
+      },
+      {
+        "tag": "H3",
+        "text": "Mpho Sello",
+        "y": 9247
+      }
+    ],
+    "links": [
+      {
+        "text": "Home",
+        "href": "http://localhost:8080/#home",
+        "visible": true
+      },
+      {
+        "text": "About Me",
+        "href": "http://localhost:8080/#about",
+        "visible": true
+      },
+      {
+        "text": "Projects",
+        "href": "http://localhost:8080/#projects",
+        "visible": true
+      },
+      {
+        "text": "Skills",
+        "href": "http://localhost:8080/#skills",
+        "visible": true
+      },
+      {
+        "text": "Achievements",
+        "href": "http://localhost:8080/#certificates",
+        "visible": true
+      },
+      {
+        "text": "Education",
+        "href": "http://localhost:8080/#education",
+        "visible": true
+      },
+      {
+        "text": "Contact",
+        "href": "http://localhost:8080/#contact",
+        "visible": true
+      },
+      {
+        "text": "",
+        "href": "https://www.linkedin.com/in/mpho-sello-692193241",
+        "visible": true
+      },
+      {
+        "text": "",
+        "href": "https://github.com/Sellomphoo",
+        "visible": true
+      },
+      {
+        "text": "",
+        "href": "http://localhost:8080/#",
+        "visible": true
+      },
+      {
+        "text": "",
+        "href": "mailto:202324276@student.spu.ac.za",
+        "visible": true
+      },
+      {
+        "text": "Cloud Database",
+        "href": "http://localhost:8080/certificates/CLOUD_DATABASE.pdf",
+        "visible": true
+      },
+      {
+        "text": "Data Certificate",
+        "href": "http://localhost:8080/certificates/DataCertificate.pdf",
+        "visible": true
+      },
+      {
+        "text": "eCertificate",
+        "href": "http://localhost:8080/certificates/eCertificate.pdf",
+        "visible": true
+      },
+      {
+        "text": "FNB App Awards 2025",
+        "href": "http://localhost:8080/certificates/FNB_App_of_the_Year_Awards_Academy_2025.pdf",
+        "visible": true
+      },
+      {
+        "text": "IBM Certificate",
+        "href": "http://localhost:8080/certificates/IBM_First_Certificate.pdf",
+        "visible": true
+      },
+      {
+        "text": "IBM Python (SkillsBuild)",
+        "href": "http://localhost:8080/certificates/IBM_PY0101EN_Certificate_IBM_SkillsBuild.pdf",
+        "visible": true
+      },
+      {
+        "text": "Oracle Analytics Cloud",
+        "href": "http://localhost:8080/certificates/Oracle_Analytics_Cloud_22025.pdf",
+        "visible": true
+      },
+      {
+        "text": "Spark Fundamentals I",
+        "href": "http://localhost:8080/certificates/Spark_Fundamentals_I_Certificate.pdf",
+        "visible": true
+      },
+      {
+        "text": "",
+        "href": "https://www.linkedin.com/in/mpho-sello-692193241",
+        "visible": true
+      },
+      {
+        "text": "",
+        "href": "https://github.com/Sellomphoo",
+        "visible": true
+      },
+      {
+        "text": "",
+        "href": "mailto:202324276@spu.ac.za",
+        "visible": true
+      }
+    ],
+    "buttons": [
+      {
+        "text": "",
+        "aria": "Switch to luxury light theme",
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "",
+        "aria": "Switch to luxury light theme",
+        "expanded": null,
+        "visible": false
+      },
+      {
+        "text": "",
+        "aria": null,
+        "expanded": null,
+        "visible": false
+      },
+      {
+        "text": "VIEW PROJECTS",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "RESUME",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "SCROLL",
+        "aria": "Scroll to about",
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "Code",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "Demo",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "Code",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "Demo",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "Code",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "Demo",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "LinkedIn",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "GitHub",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "Send Message",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "About Me",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "Projects",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "Skills",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "Education",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "Contact",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "Enter your message...",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "",
+        "aria": "Close chat widget",
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "",
+        "aria": "Close chat widget, Unread messages: 1",
+        "expanded": null,
+        "visible": true
+      }
+    ],
+    "sections": [
+      {
+        "tag": "SECTION",
+        "id": "home",
+        "cls": "relative w-full bg-background [min-height:100vh] [overflow:hidden]",
+        "text": "MPHO \u00b7 SELLO PORTFOLIO / 2026 HI, I'M MPHO SELLO I build intelligent analytics & data dashboards. DATA ANALYST POWERBI DEVELOPER BUSSINESS INTELLIGENCE ANALYST Data Analyst skilled in Excel, SQL, and Python, with practic",
+        "y": 0,
+        "h": 1800
+      },
+      {
+        "tag": "SECTION",
+        "id": "about",
+        "cls": "relative py-32 section-bg [overflow:hidden]",
+        "text": "PROFILE \u2014 ABOUT About Me Get to know more about my background, skills, and passion for technology Profile Summary Data Analyst skilled in Excel, SQL, and Python, with practical experience cleaning, analyzing, and reconci",
+        "y": 1800,
+        "h": 1564
+      },
+      {
+        "tag": "SECTION",
+        "id": "",
+        "cls": "relative py-32 bg-background [overflow:hidden]",
+        "text": "WORK \u00b7 2024 Featured Projects Explore some of my recent work and the technologies I've used to bring ideas to life Web Development Tutorial Booking System A comprehensive web-based platform for managing tutorial sessions",
+        "y": 3364,
+        "h": 788
+      },
+      {
+        "tag": "SECTION",
+        "id": "",
+        "cls": "relative py-32 section-bg [overflow:hidden]",
+        "text": "SKILLS \u2014 TOOLS Skills & Technologies Programming languages and tools I work with Python Java JavaScript HTML5 CSS3 TypeScript SQL Power BI Excel React Node.js Git Python Java JavaScript HTML5 CSS3 TypeScript SQL Power BI",
+        "y": 4314,
+        "h": 536
+      },
+      {
+        "tag": "SECTION",
+        "id": "",
+        "cls": "relative py-32 section-bg [overflow:hidden]",
+        "text": "CERTIFICATES \u2014 AWARDS Certificates & Awards Professional certifications and achievements Cloud Database Data Certificate eCertificate FNB App Awards 2025 IBM Certificate IBM Python (SkillsBuild) Oracle Analytics Cloud Sp",
+        "y": 4964,
+        "h": 1064
+      },
+      {
+        "tag": "SECTION",
+        "id": "",
+        "cls": "py-32 bg-background",
+        "text": "Education Journey My academic path and the knowledge foundation that shapes my expertise Sol Plaatje University Information Technology (Software Development) 2026 - Graduating 2027 \u2022 Coursework Completed Kimberley, North",
+        "y": 6028,
+        "h": 1954
+      },
+      {
+        "tag": "SECTION",
+        "id": "",
+        "cls": "relative py-32 section-bg [overflow:hidden]",
+        "text": "SAY \u00b7 HELLO Get In Touch Ready to collaborate or have questions? I'd love to hear from you. Let's connect and discuss opportunities. Contact Information Email 202324276@spu.ac.za sellompho1601@gmail.com Phone +27 67 668 ",
+        "y": 7982,
+        "h": 1094
+      }
+    ],
+    "topScreenshot": ".site-import/observations/preview_desktop_top.png",
+    "scrollScreenshots": [
+      {
+        "shot": ".site-import/observations/preview_desktop_scroll_1.png",
+        "scrollY": 1000
+      },
+      {
+        "shot": ".site-import/observations/preview_desktop_scroll_2.png",
+        "scrollY": 2000
+      },
+      {
+        "shot": ".site-import/observations/preview_desktop_scroll_3.png",
+        "scrollY": 3000
+      },
+      {
+        "shot": ".site-import/observations/preview_desktop_scroll_4.png",
+        "scrollY": 4000
+      },
+      {
+        "shot": ".site-import/observations/preview_desktop_scroll_5.png",
+        "scrollY": 5000
+      }
+    ]
+  },
+  {
+    "title": "Mpho Sello - ICT Professional Portfolio",
+    "url": "https://sello-mpho-portfolio.vercel.app/",
+    "dimensions": {
+      "width": 390,
+      "height": 844,
+      "bodyHeight": 10921
+    },
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "I build intelligent\nanalytics &\ndata dashboards.",
+        "y": 168
+      },
+      {
+        "tag": "H2",
+        "text": "About Me",
+        "y": 1675
+      },
+      {
+        "tag": "H3",
+        "text": "Profile Summary",
+        "y": 2322
+      },
+      {
+        "tag": "H3",
+        "text": "Core Values",
+        "y": 3090
+      },
+      {
+        "tag": "H3",
+        "text": "Soft Skills",
+        "y": 3332
+      }
+    ],
+    "links": [
+      {
+        "text": "Home",
+        "href": "https://sello-mpho-portfolio.vercel.app/#home",
+        "visible": false
+      },
+      {
+        "text": "About Me",
+        "href": "https://sello-mpho-portfolio.vercel.app/#about",
+        "visible": false
+      },
+      {
+        "text": "Projects",
+        "href": "https://sello-mpho-portfolio.vercel.app/#projects",
+        "visible": false
+      },
+      {
+        "text": "Skills",
+        "href": "https://sello-mpho-portfolio.vercel.app/#skills",
+        "visible": false
+      },
+      {
+        "text": "Achievements",
+        "href": "https://sello-mpho-portfolio.vercel.app/#certificates",
+        "visible": false
+      },
+      {
+        "text": "Education",
+        "href": "https://sello-mpho-portfolio.vercel.app/#education",
+        "visible": false
+      },
+      {
+        "text": "Contact",
+        "href": "https://sello-mpho-portfolio.vercel.app/#contact",
+        "visible": false
+      },
+      {
+        "text": "",
+        "href": "https://www.linkedin.com/in/mpho-sello-692193241",
+        "visible": true
+      },
+      {
+        "text": "",
+        "href": "https://github.com/Sellomphoo",
+        "visible": true
+      },
+      {
+        "text": "",
+        "href": "https://sello-mpho-portfolio.vercel.app/#",
+        "visible": true
+      },
+      {
+        "text": "",
+        "href": "mailto:202324276@student.spu.ac.za",
+        "visible": true
+      }
+    ],
+    "buttons": [
+      {
+        "text": "",
+        "aria": "Switch to luxury light theme",
+        "expanded": null,
+        "visible": false
+      },
+      {
+        "text": "",
+        "aria": "Switch to luxury light theme",
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "VIEW PROJECTS",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "RESUME",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "SCROLL",
+        "aria": "Scroll to about",
+        "expanded": null,
+        "visible": true
+      }
+    ],
+    "sections": [
+      {
+        "tag": "SECTION",
+        "id": "home",
+        "cls": "relative min-h-screen w-full overflow-hidden bg-background",
+        "text": "MPHO \u00b7 SELLO HI, I'M MPHO SELLO I build intelligent analytics & data dashboards. DATA ANALYST POWERBI DEVELOPER BUSSINESS INTELLIGENCE ANALYST Data Analyst skilled in Excel, SQL, and Python, with practical experience cle",
+        "y": 0,
+        "h": 1523
+      },
+      {
+        "tag": "SECTION",
+        "id": "about",
+        "cls": "relative py-32 section-bg overflow-hidden",
+        "text": "PROFILE \u2014 ABOUT About Me Get to know more about my background, skills, and passion for technology Profile Summary Data Analyst skilled in Excel, SQL, and Python, with practical experience cleaning, analyzing, and reconci",
+        "y": 1523,
+        "h": 2378
+      }
+    ],
+    "topScreenshot": ".site-import/observations/source_phone_top.png",
+    "firstControlResult": {
+      "clicked": true,
+      "buttons": [
+        {
+          "text": "",
+          "expanded": null
+        },
+        {
+          "text": "",
+          "expanded": null
+        },
+        {
+          "text": "",
+          "expanded": null
+        },
+        {
+          "text": "VIEW PROJECTS",
+          "expanded": null
+        },
+        {
+          "text": "RESUME",
+          "expanded": null
+        },
+        {
+          "text": "SCROLL",
+          "expanded": null
+        }
+      ],
+      "screenshot": ".site-import/observations/source_phone_control.png"
+    },
+    "scrollScreenshots": [
+      {
+        "shot": ".site-import/observations/source_phone_scroll_1.png",
+        "scrollY": 1000
+      },
+      {
+        "shot": ".site-import/observations/source_phone_scroll_2.png",
+        "scrollY": 2000
+      },
+      {
+        "shot": ".site-import/observations/source_phone_scroll_3.png",
+        "scrollY": 3000
+      }
+    ]
+  },
+  {
+    "title": "Mpho Sello - ICT Professional Portfolio",
+    "url": "http://localhost:8080/",
+    "dimensions": {
+      "width": 390,
+      "height": 844,
+      "bodyHeight": 14415
+    },
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "I build intelligent\nanalytics &\ndata dashboards.",
+        "y": 177
+      },
+      {
+        "tag": "H2",
+        "text": "About Me",
+        "y": 1675
+      },
+      {
+        "tag": "H3",
+        "text": "Profile Summary",
+        "y": 2322
+      },
+      {
+        "tag": "H3",
+        "text": "Core Values",
+        "y": 3090
+      },
+      {
+        "tag": "H3",
+        "text": "Soft Skills",
+        "y": 3332
+      },
+      {
+        "tag": "H2",
+        "text": "Featured Projects",
+        "y": 4053
+      },
+      {
+        "tag": "H3",
+        "text": "Tutorial Booking System",
+        "y": 4349
+      },
+      {
+        "tag": "H3",
+        "text": "Legal Assistance Booking App",
+        "y": 4722
+      },
+      {
+        "tag": "H3",
+        "text": "HerCycle Sanitary Services Donation Platform",
+        "y": 5142
+      },
+      {
+        "tag": "H2",
+        "text": "Skills & Technologies",
+        "y": 5693
+      },
+      {
+        "tag": "H2",
+        "text": "Certificates & Awards",
+        "y": 6343
+      },
+      {
+        "tag": "H2",
+        "text": "Education Journey",
+        "y": 9315
+      },
+      {
+        "tag": "H3",
+        "text": "Sol Plaatje University",
+        "y": 9492
+      },
+      {
+        "tag": "H3",
+        "text": "Motheo TVET College",
+        "y": 10242
+      },
+      {
+        "tag": "H3",
+        "text": "Bainsvlei Combined School",
+        "y": 10774
+      },
+      {
+        "tag": "H2",
+        "text": "Get In Touch",
+        "y": 11951
+      },
+      {
+        "tag": "H3",
+        "text": "Contact Information",
+        "y": 12174
+      },
+      {
+        "tag": "H3",
+        "text": "Connect With Me",
+        "y": 12520
+      },
+      {
+        "tag": "H3",
+        "text": "Professional References",
+        "y": 12694
+      },
+      {
+        "tag": "H3",
+        "text": "Send Me a Message",
+        "y": 12864
+      },
+      {
+        "tag": "H3",
+        "text": "Mpho Sello",
+        "y": 13614
+      }
+    ],
+    "links": [
+      {
+        "text": "Home",
+        "href": "http://localhost:8080/#home",
+        "visible": false
+      },
+      {
+        "text": "About Me",
+        "href": "http://localhost:8080/#about",
+        "visible": false
+      },
+      {
+        "text": "Projects",
+        "href": "http://localhost:8080/#projects",
+        "visible": false
+      },
+      {
+        "text": "Skills",
+        "href": "http://localhost:8080/#skills",
+        "visible": false
+      },
+      {
+        "text": "Achievements",
+        "href": "http://localhost:8080/#certificates",
+        "visible": false
+      },
+      {
+        "text": "Education",
+        "href": "http://localhost:8080/#education",
+        "visible": false
+      },
+      {
+        "text": "Contact",
+        "href": "http://localhost:8080/#contact",
+        "visible": false
+      },
+      {
+        "text": "",
+        "href": "https://www.linkedin.com/in/mpho-sello-692193241",
+        "visible": true
+      },
+      {
+        "text": "",
+        "href": "https://github.com/Sellomphoo",
+        "visible": true
+      },
+      {
+        "text": "",
+        "href": "http://localhost:8080/#",
+        "visible": true
+      },
+      {
+        "text": "",
+        "href": "mailto:202324276@student.spu.ac.za",
+        "visible": true
+      },
+      {
+        "text": "Cloud Database",
+        "href": "http://localhost:8080/certificates/CLOUD_DATABASE.pdf",
+        "visible": true
+      },
+      {
+        "text": "Data Certificate",
+        "href": "http://localhost:8080/certificates/DataCertificate.pdf",
+        "visible": true
+      },
+      {
+        "text": "eCertificate",
+        "href": "http://localhost:8080/certificates/eCertificate.pdf",
+        "visible": true
+      },
+      {
+        "text": "FNB App Awards 2025",
+        "href": "http://localhost:8080/certificates/FNB_App_of_the_Year_Awards_Academy_2025.pdf",
+        "visible": true
+      },
+      {
+        "text": "IBM Certificate",
+        "href": "http://localhost:8080/certificates/IBM_First_Certificate.pdf",
+        "visible": true
+      },
+      {
+        "text": "IBM Python (SkillsBuild)",
+        "href": "http://localhost:8080/certificates/IBM_PY0101EN_Certificate_IBM_SkillsBuild.pdf",
+        "visible": true
+      },
+      {
+        "text": "Oracle Analytics Cloud",
+        "href": "http://localhost:8080/certificates/Oracle_Analytics_Cloud_22025.pdf",
+        "visible": true
+      },
+      {
+        "text": "Spark Fundamentals I",
+        "href": "http://localhost:8080/certificates/Spark_Fundamentals_I_Certificate.pdf",
+        "visible": true
+      },
+      {
+        "text": "",
+        "href": "https://www.linkedin.com/in/mpho-sello-692193241",
+        "visible": true
+      },
+      {
+        "text": "",
+        "href": "https://github.com/Sellomphoo",
+        "visible": true
+      },
+      {
+        "text": "",
+        "href": "mailto:202324276@spu.ac.za",
+        "visible": true
+      }
+    ],
+    "buttons": [
+      {
+        "text": "",
+        "aria": "Switch to luxury light theme",
+        "expanded": null,
+        "visible": false
+      },
+      {
+        "text": "",
+        "aria": "Switch to luxury light theme",
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "VIEW PROJECTS",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "RESUME",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "SCROLL",
+        "aria": "Scroll to about",
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "Code",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "Demo",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "Code",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "Demo",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "Code",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "Demo",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "LinkedIn",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "GitHub",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "Send Message",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "About Me",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "Projects",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "Skills",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "Education",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "Contact",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "Enter your message...",
+        "aria": null,
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "",
+        "aria": "Close chat widget",
+        "expanded": null,
+        "visible": true
+      },
+      {
+        "text": "",
+        "aria": "Close chat widget, Unread messages: 1",
+        "expanded": null,
+        "visible": true
+      }
+    ],
+    "sections": [
+      {
+        "tag": "SECTION",
+        "id": "home",
+        "cls": "relative w-full bg-background [min-height:100vh] [overflow:hidden]",
+        "text": "MPHO \u00b7 SELLO HI, I'M MPHO SELLO I build intelligent analytics & data dashboards. DATA ANALYST POWERBI DEVELOPER BUSSINESS INTELLIGENCE ANALYST Data Analyst skilled in Excel, SQL, and Python, with practical experience cle",
+        "y": 0,
+        "h": 1523
+      },
+      {
+        "tag": "SECTION",
+        "id": "about",
+        "cls": "relative py-32 section-bg [overflow:hidden]",
+        "text": "PROFILE \u2014 ABOUT About Me Get to know more about my background, skills, and passion for technology Profile Summary Data Analyst skilled in Excel, SQL, and Python, with practical experience cleaning, analyzing, and reconci",
+        "y": 1523,
+        "h": 2378
+      },
+      {
+        "tag": "SECTION",
+        "id": "",
+        "cls": "relative py-32 bg-background [overflow:hidden]",
+        "text": "WORK \u00b7 2024 Featured Projects Explore some of my recent work and the technologies I've used to bring ideas to life Web Development Tutorial Booking System A comprehensive web-based platform for managing tutorial sessions",
+        "y": 3901,
+        "h": 1640
+      },
+      {
+        "tag": "SECTION",
+        "id": "",
+        "cls": "relative py-32 section-bg [overflow:hidden]",
+        "text": "SKILLS \u2014 TOOLS Skills & Technologies Programming languages and tools I work with Python Java JavaScript HTML5 CSS3 TypeScript SQL Power BI Excel React Node.js Git Python Java JavaScript HTML5 CSS3 TypeScript SQL Power BI",
+        "y": 5541,
+        "h": 544
+      },
+      {
+        "tag": "SECTION",
+        "id": "",
+        "cls": "relative py-32 section-bg [overflow:hidden]",
+        "text": "CERTIFICATES \u2014 AWARDS Certificates & Awards Professional certifications and achievements Cloud Database Data Certificate eCertificate FNB App Awards 2025 IBM Certificate IBM Python (SkillsBuild) Oracle Analytics Cloud Sp",
+        "y": 6191,
+        "h": 2972
+      },
+      {
+        "tag": "SECTION",
+        "id": "",
+        "cls": "py-32 bg-background",
+        "text": "Education Journey My academic path and the knowledge foundation that shapes my expertise Sol Plaatje University Information Technology (Software Development) 2026 - Graduating 2027 \u2022 Coursework Completed Kimberley, North",
+        "y": 9163,
+        "h": 2636
+      },
+      {
+        "tag": "SECTION",
+        "id": "",
+        "cls": "relative py-32 section-bg [overflow:hidden]",
+        "text": "SAY \u00b7 HELLO Get In Touch Ready to collaborate or have questions? I'd love to hear from you. Let's connect and discuss opportunities. Contact Information Email 202324276@spu.ac.za sellompho1601@gmail.com Phone +27 67 668 ",
+        "y": 11799,
+        "h": 1750
+      }
+    ],
+    "topScreenshot": ".site-import/observations/preview_phone_top.png",
+    "firstControlResult": {
+      "clicked": true,
+      "buttons": [
+        {
+          "text": "",
+          "expanded": null
+        },
+        {
+          "text": "",
+          "expanded": null
+        },
+        {
+          "text": "",
+          "expanded": null
+        },
+        {
+          "text": "VIEW PROJECTS",
+          "expanded": null
+        },
+        {
+          "text": "RESUME",
+          "expanded": null
+        },
+        {
+          "text": "SCROLL",
+          "expanded": null
+        },
+        {
+          "text": "Code",
+          "expanded": null
+        },
+        {
+          "text": "Demo",
+          "expanded": null
+        },
+        {
+          "text": "Code",
+          "expanded": null
+        },
+        {
+          "text": "Demo",
+          "expanded": null
+        },
+        {
+          "text": "Code",
+          "expanded": null
+        },
+        {
+          "text": "Demo",
+          "expanded": null
+        },
+        {
+          "text": "LinkedIn",
+          "expanded": null
+        },
+        {
+          "text": "GitHub",
+          "expanded": null
+        },
+        {
+          "text": "Send Message",
+          "expanded": null
+        },
+        {
+          "text": "About Me",
+          "expanded": null
+        },
+        {
+          "text": "Projects",
+          "expanded": null
+        },
+        {
+          "text": "Skills",
+          "expanded": null
+        },
+        {
+          "text": "Education",
+          "expanded": null
+        },
+        {
+          "text": "Contact",
+          "expanded": null
+        },
+        {
+          "text": "Enter your message...",
+          "expanded": null
+        },
+        {
+          "text": "",
+          "expanded": null
+        },
+        {
+          "text": "",
+          "expanded": null
+        }
+      ],
+      "screenshot": ".site-import/observations/preview_phone_control.png"
+    },
+    "scrollScreenshots": [
+      {
+        "shot": ".site-import/observations/preview_phone_scroll_1.png",
+        "scrollY": 1000
+      },
+      {
+        "shot": ".site-import/observations/preview_phone_scroll_2.png",
+        "scrollY": 2000
+      },
+      {
+        "shot": ".site-import/observations/preview_phone_scroll_3.png",
+        "scrollY": 3000
+      }
+    ]
+  }
+]

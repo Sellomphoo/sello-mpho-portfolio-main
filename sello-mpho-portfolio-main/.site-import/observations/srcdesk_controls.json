@@ -1,0 +1,145 @@
+{
+  "start": {
+    "scrollY": 0,
+    "height": 9184,
+    "html": "dark",
+    "body": "bg-[#050505]",
+    "heading": {
+      "text": "I build intelligent\nanalytics &\ndata dashboards.",
+      "rect": {
+        "x": 64,
+        "y": 617.140625,
+        "w": 658.65625,
+        "h": 209.71875
+      },
+      "font": "73.6px",
+      "lineHeight": "69.92px",
+      "display": "block",
+      "opacity": "1",
+      "html": "<h1 class=\"text-display text-[2.6rem] sm:text-[3.6rem] lg:text-[4.6rem] font-bold leading-[0.95]\">I build <span class=\"italic font-light text-muted-foreground\">intelligent</span><br>analytics &amp;<br><span class=\"text-gradient\">data dashboards.</span></h1>"
+    },
+    "nav": {
+      "text": "Mpho Sello\nHome\nAbout Me\nProjects\nSkills\nAchievements\nEducation\nContact\nHome",
+      "class": "fixed top-0 w-full z-50 transition-all duration-300 bg-transparent",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 1280,
+        "h": 64
+      }
+    },
+    "buttons": [
+      {
+        "i": 0,
+        "text": "",
+        "aria": "Switch to luxury light theme",
+        "cls": "luxury-toggle group",
+        "display": "block",
+        "visible": true,
+        "html": "<span class=\"luxury-toggle-thumb\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"cur"
+      },
+      {
+        "i": 1,
+        "text": "",
+        "aria": "Switch to luxury light theme",
+        "cls": "luxury-toggle group",
+        "display": "inline-block",
+        "visible": false,
+        "html": "<span class=\"luxury-toggle-thumb\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"cur"
+      },
+      {
+        "i": 2,
+        "text": "",
+        "aria": null,
+        "cls": "inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-accent hover:text-accent-foreground h-9 rounded-md px-3",
+        "display": "inline-flex",
+        "visible": false,
+        "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke"
+      },
+      {
+        "i": 3,
+        "text": "VIEW PROJECTS",
+        "aria": null,
+        "cls": "inline-flex items-center justify-center gap-2 whitespace-nowrap font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border hover:bg-accent magnetic-btn group rounded-none border-foreground/30 bg-transparent text-foreground hover:text-background px-8 h-14 text-sm uppercase tracking-[0.25em]",
+        "display": "flex",
+        "visible": true,
+        "html": "View Projects<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-wid"
+      },
+      {
+        "i": 4,
+        "text": "RESUME",
+        "aria": null,
+        "cls": "inline-flex items-center justify-center gap-2 whitespace-nowrap font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 rounded-none px-8 h-14 text-sm uppercase tracking-[0.25em] text-muted-foreground hover:text-foreground hover:bg-transparent",
+        "display": "flex",
+        "visible": true,
+        "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke"
+      },
+      {
+        "i": 5,
+        "text": "SCROLL",
+        "aria": "Scroll to about",
+        "cls": "absolute bottom-8 left-1/2 -translate-x-1/2 z-10 flex flex-col items-center gap-2 text-[10px] uppercase tracking-[0.3em] text-muted-foreground hover:text-foreground transition-colors",
+        "display": "flex",
+        "visible": true,
+        "html": "Scroll<span class=\"h-10 w-px bg-gradient-to-b from-foreground/60 to-transparent animate-float\"></span>"
+      }
+    ],
+    "wrappers": [
+      {
+        "id": "projects",
+        "top": 3364,
+        "height": 950,
+        "cls": "min-h-[1250px] lg:min-h-[950px]"
+      },
+      {
+        "id": "skills",
+        "top": 4314,
+        "height": 650,
+        "cls": "min-h-[650px]"
+      },
+      {
+        "id": "certificates",
+        "top": 4964,
+        "height": 1000,
+        "cls": "min-h-[1200px] lg:min-h-[1000px]"
+      },
+      {
+        "id": "education",
+        "top": 5964,
+        "height": 1600,
+        "cls": "min-h-[2000px] lg:min-h-[1600px]"
+      },
+      {
+        "id": "contact",
+        "top": 7564,
+        "height": 1200,
+        "cls": "min-h-[1500px] lg:min-h-[1200px]"
+      },
+      {
+        "id": "footer",
+        "top": 8764,
+        "height": 420,
+        "cls": "min-h-[420px]"
+      }
+    ],
+    "imgs": [
+      {
+        "src": "https://sello-mpho-portfolio.vercel.app/images/hero-portrait.webp",
+        "alt": "Mpho Sello portrait",
+        "ok": true
+      },
+      {
+        "src": "https://sello-mpho-portfolio.vercel.app/images/about-portrait.webp",
+        "alt": "Mpho Sello portrait",
+        "ok": true
+      }
+    ]
+  },
+  "results": [
+    {
+      "cta": "VIEW PROJECTS",
+      "url": "https://sello-mpho-portfolio.vercel.app/",
+      "scrollY": 1485
+    }
+  ]
+}

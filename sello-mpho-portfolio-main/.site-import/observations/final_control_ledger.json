@@ -1,0 +1,14 @@
+{
+  "route": "/",
+  "source": "https://sello-mpho-portfolio.vercel.app/",
+  "controls": [
+    {"control": "Desktop navigation Projects link", "viewport": "1280x1800", "expected": "Moves to #projects", "observed": "Preview hash #projects; section visible", "status": "pass"},
+    {"control": "Phone navigation menu", "viewport": "390x844", "expected": "Opens Home, About Me, Projects, Skills, Achievements, Education, Contact", "observed": "Source and preview open the same seven items; preview Escape closes and returns focus", "status": "pass", "artifacts": ["/tmp/browser/portfolio-final/source-phone-menu-settled.png"]},
+    {"control": "Phone menu Projects item", "viewport": "390x844", "expected": "Moves to projects and closes menu", "observed": "Preview hash #projects, project section at top, menu closed", "status": "pass"},
+    {"control": "Hero View Projects", "viewport": "desktop and phone", "expected": "Scrolls to projects", "observed": "Preview reaches project section on both sizes", "status": "pass"},
+    {"control": "Project details popup", "viewport": "desktop and phone", "expected": "Each project opens details with features, technologies and links", "observed": "All three open and close; Escape returns focus on desktop", "status": "pass", "artifacts": ["/tmp/browser/portfolio-final/phone_project_dialog.png"]},
+    {"control": "Certificate previews", "viewport": "desktop and phone", "expected": "Eight previews visible", "observed": "Eight images loaded on both sizes", "status": "pass"},
+    {"control": "Resume and certificate files", "viewport": "n/a", "expected": "Local documents available", "observed": "Resume and sample certificate return PDF files", "status": "pass"},
+    {"control": "Main media playback", "viewport": "desktop and phone", "expected": "Source has playable media", "observed": "No video, audio or media controls found on source", "status": "not_applicable"}
+  ]
+}

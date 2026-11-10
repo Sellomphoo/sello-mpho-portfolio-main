@@ -1,0 +1,81 @@
+[
+  {
+    "viewport": "desktop",
+    "initial": {
+      "title": "Mpho Sello \u2014 ICT Professional Portfolio",
+      "description": "Explore Mpho Sello\u2019s ICT portfolio, data analytics projects, skills, education, and professional achievements.",
+      "ogtitle": "Mpho Sello \u2014 ICT Professional Portfolio",
+      "bodyHeight": 9602,
+      "h1": "I build intelligent\nanalytics &\ndata dashboards.",
+      "visibleHeadline": 209.71875,
+      "headlineColor": "linear-gradient(135deg, rgb(250, 250, 250), rgb(179, 179, 179))",
+      "brandColor": "linear-gradient(135deg, rgb(250, 250, 250), rgb(179, 179, 179))",
+      "chat": false
+    },
+    "controls": [
+      {
+        "name": "View Projects CTA",
+        "beforeScroll": 0,
+        "after": {
+          "scrollY": 0,
+          "projects": 3364
+        },
+        "screenshot": ".site-import/observations/verified_desktop_projects.png"
+      },
+      {
+        "name": "Theme toggle",
+        "result": {
+          "htmlClass": "",
+          "background": "rgb(246, 241, 234)"
+        }
+      }
+    ],
+    "pageErrors": []
+  },
+  {
+    "viewport": "phone",
+    "initial": {
+      "title": "Mpho Sello \u2014 ICT Professional Portfolio",
+      "description": "Explore Mpho Sello\u2019s ICT portfolio, data analytics projects, skills, education, and professional achievements.",
+      "ogtitle": "Mpho Sello \u2014 ICT Professional Portfolio",
+      "bodyHeight": 14415,
+      "h1": "I build intelligent\nanalytics &\ndata dashboards.",
+      "visibleHeadline": 118.49998474121094,
+      "headlineColor": "linear-gradient(135deg, rgb(250, 250, 250), rgb(179, 179, 179))",
+      "brandColor": "linear-gradient(135deg, rgb(250, 250, 250), rgb(179, 179, 179))",
+      "chat": false
+    },
+    "controls": [
+      {
+        "name": "Mobile navigation open",
+        "ariaExpanded": "true",
+        "links": [
+          "Home",
+          "About Me",
+          "Projects",
+          "Skills",
+          "Achievements",
+          "Education",
+          "Contact"
+        ],
+        "screenshot": ".site-import/observations/verified_phone_menu_open.png"
+      },
+      {
+        "name": "Phone menu Projects destination",
+        "menuClosed": "false",
+        "projectTop": -0.25,
+        "url": "http://localhost:8080/#projects"
+      },
+      {
+        "name": "View Projects CTA",
+        "beforeScroll": 0,
+        "after": {
+          "scrollY": 3901,
+          "projects": -0.25
+        },
+        "screenshot": ".site-import/observations/verified_phone_projects.png"
+      }
+    ],
+    "pageErrors": []
+  }
+]

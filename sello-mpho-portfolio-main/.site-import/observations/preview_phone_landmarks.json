@@ -1,0 +1,372 @@
+{
+  "label": "preview_phone",
+  "url": "http://localhost:8080/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "steps": [
+    {
+      "scrollY": 16,
+      "bodyHeight": 14415,
+      "headings": [
+        "I build intelligent analytics & data dashboards."
+      ],
+      "section": [
+        {
+          "id": "home",
+          "cls": "relative w-full bg-background [min-height:100vh] [overflow:hidden]",
+          "top": -16,
+          "height": 1523
+        }
+      ],
+      "images": [],
+      "navClass": "fixed top-0 w-full z-50 transition-all duration-300 bg-transparent",
+      "screenshot": ".site-import/observations/preview_phone_landmark_01.png"
+    },
+    {
+      "scrollY": 0,
+      "bodyHeight": 14415,
+      "headings": [
+        "I build intelligent analytics & data dashboards."
+      ],
+      "section": [
+        {
+          "id": "home",
+          "cls": "relative w-full bg-background [min-height:100vh] [overflow:hidden]",
+          "top": 0,
+          "height": 1523
+        }
+      ],
+      "images": [],
+      "navClass": "fixed top-0 w-full z-50 transition-all duration-300 bg-transparent",
+      "screenshot": ".site-import/observations/preview_phone_landmark_02.png"
+    },
+    {
+      "scrollY": 800,
+      "bodyHeight": 14415,
+      "headings": [],
+      "section": [
+        {
+          "id": "home",
+          "cls": "relative w-full bg-background [min-height:100vh] [overflow:hidden]",
+          "top": -800,
+          "height": 1523
+        },
+        {
+          "id": "about",
+          "cls": "relative py-32 section-bg [overflow:hidden]",
+          "top": 723,
+          "height": 2378
+        }
+      ],
+      "images": [
+        {
+          "alt": "Mpho Sello portrait",
+          "loaded": true,
+          "src": "ost:8080/site-assets/6848d22de5c94b3a.webp"
+        }
+      ],
+      "navClass": "fixed top-0 w-full z-50 transition-all duration-300 nav-blur border-b border-border",
+      "screenshot": ".site-import/observations/preview_phone_landmark_03.png"
+    },
+    {
+      "scrollY": 1600,
+      "bodyHeight": 14415,
+      "headings": [
+        "About Me"
+      ],
+      "section": [
+        {
+          "id": "about",
+          "cls": "relative py-32 section-bg [overflow:hidden]",
+          "top": -77,
+          "height": 2378
+        }
+      ],
+      "images": [
+        {
+          "alt": "Mpho Sello portrait",
+          "loaded": true,
+          "src": "ost:8080/site-assets/cf092e57f605627c.webp"
+        }
+      ],
+      "navClass": "fixed top-0 w-full z-50 transition-all duration-300 nav-blur border-b border-border",
+      "screenshot": ".site-import/observations/preview_phone_landmark_04.png"
+    },
+    {
+      "scrollY": 2400,
+      "bodyHeight": 14415,
+      "headings": [],
+      "section": [
+        {
+          "id": "about",
+          "cls": "relative py-32 section-bg [overflow:hidden]",
+          "top": -877,
+          "height": 2378
+        }
+      ],
+      "images": [],
+      "navClass": "fixed top-0 w-full z-50 transition-all duration-300 nav-blur border-b border-border",
+      "screenshot": ".site-import/observations/preview_phone_landmark_05.png"
+    },
+    {
+      "scrollY": 3200,
+      "bodyHeight": 14415,
+      "headings": [],
+      "section": [
+        {
+          "id": "about",
+          "cls": "relative py-32 section-bg [overflow:hidden]",
+          "top": -1677,
+          "height": 2378
+        },
+        {
+          "id": "",
+          "cls": "relative py-32 bg-background [overflow:hidden]",
+          "top": 701,
+          "height": 1640
+        }
+      ],
+      "images": [],
+      "navClass": "fixed top-0 w-full z-50 transition-all duration-300 nav-blur border-b border-border",
+      "screenshot": ".site-import/observations/preview_phone_landmark_06.png"
+    },
+    {
+      "scrollY": 4000,
+      "bodyHeight": 14415,
+      "headings": [
+        "Featured Projects"
+      ],
+      "section": [
+        {
+          "id": "",
+          "cls": "relative py-32 bg-background [overflow:hidden]",
+          "top": -99,
+          "height": 1640
+        }
+      ],
+      "images": [],
+      "navClass": "fixed top-0 w-full z-50 transition-all duration-300 nav-blur border-b border-border",
+      "screenshot": ".site-import/observations/preview_phone_landmark_07.png"
+    },
+    {
+      "scrollY": 4800,
+      "bodyHeight": 14415,
+      "headings": [],
+      "section": [
+        {
+          "id": "",
+          "cls": "relative py-32 bg-background [overflow:hidden]",
+          "top": -899,
+          "height": 1640
+        },
+        {
+          "id": "",
+          "cls": "relative py-32 section-bg [overflow:hidden]",
+          "top": 741,
+          "height": 544
+        }
+      ],
+      "images": [],
+      "navClass": "fixed top-0 w-full z-50 transition-all duration-300 nav-blur border-b border-border",
+      "screenshot": ".site-import/observations/preview_phone_landmark_08.png"
+    },
+    {
+      "scrollY": 5600,
+      "bodyHeight": 14415,
+      "headings": [
+        "Skills & Technologies",
+        "Certificates & Awards"
+      ],
+      "section": [
+        {
+          "id": "",
+          "cls": "relative py-32 section-bg [overflow:hidden]",
+          "top": -59,
+          "height": 544
+        },
+        {
+          "id": "",
+          "cls": "relative py-32 section-bg [overflow:hidden]",
+          "top": 591,
+          "height": 2972
+        }
+      ],
+      "images": [],
+      "navClass": "fixed top-0 w-full z-50 transition-all duration-300 nav-blur border-b border-border",
+      "screenshot": ".site-import/observations/preview_phone_landmark_09.png"
+    },
+    {
+      "scrollY": 6400,
+      "bodyHeight": 14415,
+      "headings": [],
+      "section": [
+        {
+          "id": "",
+          "cls": "relative py-32 section-bg [overflow:hidden]",
+          "top": -209,
+          "height": 2972
+        }
+      ],
+      "images": [],
+      "navClass": "fixed top-0 w-full z-50 transition-all duration-300 nav-blur border-b border-border",
+      "screenshot": ".site-import/observations/preview_phone_landmark_10.png"
+    },
+    {
+      "scrollY": 7200,
+      "bodyHeight": 14415,
+      "headings": [],
+      "section": [
+        {
+          "id": "",
+          "cls": "relative py-32 section-bg [overflow:hidden]",
+          "top": -1009,
+          "height": 2972
+        }
+      ],
+      "images": [],
+      "navClass": "fixed top-0 w-full z-50 transition-all duration-300 nav-blur border-b border-border",
+      "screenshot": ".site-import/observations/preview_phone_landmark_11.png"
+    },
+    {
+      "scrollY": 8000,
+      "bodyHeight": 14415,
+      "headings": [],
+      "section": [
+        {
+          "id": "",
+          "cls": "relative py-32 section-bg [overflow:hidden]",
+          "top": -1809,
+          "height": 2972
+        }
+      ],
+      "images": [],
+      "navClass": "fixed top-0 w-full z-50 transition-all duration-300 nav-blur border-b border-border",
+      "screenshot": ".site-import/observations/preview_phone_landmark_12.png"
+    },
+    {
+      "scrollY": 8800,
+      "bodyHeight": 14415,
+      "headings": [
+        "Education Journey"
+      ],
+      "section": [
+        {
+          "id": "",
+          "cls": "relative py-32 section-bg [overflow:hidden]",
+          "top": -2609,
+          "height": 2972
+        },
+        {
+          "id": "",
+          "cls": "py-32 bg-background",
+          "top": 363,
+          "height": 2636
+        }
+      ],
+      "images": [],
+      "navClass": "fixed top-0 w-full z-50 transition-all duration-300 nav-blur border-b border-border",
+      "screenshot": ".site-import/observations/preview_phone_landmark_13.png"
+    },
+    {
+      "scrollY": 9600,
+      "bodyHeight": 14415,
+      "headings": [],
+      "section": [
+        {
+          "id": "",
+          "cls": "py-32 bg-background",
+          "top": -437,
+          "height": 2636
+        }
+      ],
+      "images": [],
+      "navClass": "fixed top-0 w-full z-50 transition-all duration-300 nav-blur border-b border-border",
+      "screenshot": ".site-import/observations/preview_phone_landmark_14.png"
+    },
+    {
+      "scrollY": 10400,
+      "bodyHeight": 14415,
+      "headings": [],
+      "section": [
+        {
+          "id": "",
+          "cls": "py-32 bg-background",
+          "top": -1237,
+          "height": 2636
+        }
+      ],
+      "images": [],
+      "navClass": "fixed top-0 w-full z-50 transition-all duration-300 nav-blur border-b border-border",
+      "screenshot": ".site-import/observations/preview_phone_landmark_15.png"
+    },
+    {
+      "scrollY": 11200,
+      "bodyHeight": 14415,
+      "headings": [
+        "Get In Touch"
+      ],
+      "section": [
+        {
+          "id": "",
+          "cls": "py-32 bg-background",
+          "top": -2037,
+          "height": 2636
+        },
+        {
+          "id": "",
+          "cls": "relative py-32 section-bg [overflow:hidden]",
+          "top": 599,
+          "height": 1750
+        }
+      ],
+      "images": [],
+      "navClass": "fixed top-0 w-full z-50 transition-all duration-300 nav-blur border-b border-border",
+      "screenshot": ".site-import/observations/preview_phone_landmark_16.png"
+    },
+    {
+      "scrollY": 12000,
+      "bodyHeight": 14415,
+      "headings": [],
+      "section": [
+        {
+          "id": "",
+          "cls": "relative py-32 section-bg [overflow:hidden]",
+          "top": -201,
+          "height": 1750
+        }
+      ],
+      "images": [],
+      "navClass": "fixed top-0 w-full z-50 transition-all duration-300 nav-blur border-b border-border",
+      "screenshot": ".site-import/observations/preview_phone_landmark_17.png"
+    },
+    {
+      "scrollY": 12800,
+      "bodyHeight": 14415,
+      "headings": [],
+      "section": [
+        {
+          "id": "",
+          "cls": "relative py-32 section-bg [overflow:hidden]",
+          "top": -1001,
+          "height": 1750
+        }
+      ],
+      "images": [],
+      "navClass": "fixed top-0 w-full z-50 transition-all duration-300 nav-blur border-b border-border",
+      "screenshot": ".site-import/observations/preview_phone_landmark_18.png"
+    },
+    {
+      "scrollY": 13571,
+      "bodyHeight": 14415,
+      "headings": [],
+      "section": [],
+      "images": [],
+      "navClass": "fixed top-0 w-full z-50 transition-all duration-300 nav-blur border-b border-border",
+      "screenshot": ".site-import/observations/preview_phone_landmark_19.png"
+    }
+  ],
+  "errors": [],
+  "finalHeight": 14415
+}
