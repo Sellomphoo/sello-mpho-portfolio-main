@@ -2,8 +2,6 @@ import type { CSSProperties } from "react";
 import { useEffect, useRef, useState } from "react";
 import { createFileRoute } from "@tanstack/react-router";
 import { Github, Menu, X } from "lucide-react";
-import mtnDashboard from "@/assets/mtn-customer-churn-dashboard.png.asset.json";
-import telecomDashboard from "@/assets/telecom-customer-analytics-dashboard.png.asset.json";
 import capturedCSS from "../styles/site.css?raw";
 
 export const Route = createFileRoute("/")({
@@ -416,7 +414,7 @@ function ImportedSectionFeaturedProjects() {
       description: "Power BI analysis of 496 customers, churn drivers, and revenue, with a carefully validated customer and purchase data model.",
       longDescription: "An end-to-end Power BI project exploring customer churn in an MTN telecom dataset. The analysis separates customer-level details from purchase lines to avoid inflated counts, then checks key figures against the raw data: 496 customers, 146 churned customers, and 199,348,200 in revenue.",
       category: "Power BI · Customer Churn",
-      image: mtnDashboard.url,
+      image: "/mtn-customer-churn-dashboard.png",
       imageAlt: "MTN customer churn analytics dashboard overview",
       technologies: ["Power BI", "Power Query", "DAX", "Microsoft Excel"],
       features: ["Churn and revenue KPIs", "Churn reasons and tenure analysis", "Customer age and satisfaction breakdown", "Monthly revenue analysis", "Gender slicer", "Validated customer and purchase model"],
@@ -427,7 +425,7 @@ function ImportedSectionFeaturedProjects() {
       description: "A Power BI profile of 7,043 telecom customers, highlighting revenue, contracts, services, payment methods, and customer locations.",
       longDescription: "An interactive Power BI dashboard built to understand a telecom company's customer base and revenue. It examines customer demographics, contract types, internet services, payment preferences, and geographic distribution, with data profiling and revenue reconciliation guiding the analysis.",
       category: "Power BI · Customer Analytics",
-      image: telecomDashboard.url,
+      image: "/telecom-customer-analytics-dashboard.png",
       imageAlt: "Telecom customer analytics dashboard overview",
       technologies: ["Power BI Desktop", "Power Query", "DAX"],
       features: ["Customer and revenue KPI cards", "Age, gender, and marital status profile", "Revenue by contract and internet type", "Payment method breakdown", "Customer location map", "Gender and customer status slicers"],
