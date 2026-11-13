@@ -174,7 +174,7 @@ function ImportedNav() {
             >
               {menuOpen ? <X className="h-5 w-5" aria-hidden="true" /> : <Menu className="h-5 w-5" aria-hidden="true" />}
             </button>
-          </div>
+          </div> 
         </div>
         {menuOpen && (
           <div id="portfolio-mobile-menu" className="absolute left-4 right-4 top-16 z-[70] border border-border bg-background/95 p-2 shadow-lg backdrop-blur-md sm:left-6 sm:right-6 md:hidden">
